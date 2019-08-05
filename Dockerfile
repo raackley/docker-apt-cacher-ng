@@ -1,6 +1,6 @@
 FROM ubuntu:bionic-20190612
 
-LABEL maintainer="sameer@damagehead.com"
+LABEL maintainer="raackley@protonmail.com"
 
 ENV APT_CACHER_NG_VERSION=3.1 \
     APT_CACHER_NG_CACHE_DIR=/var/cache/apt-cacher-ng \
